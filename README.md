@@ -1,0 +1,2 @@
+# comparative_analysis_of_the_effectiveness_of_data_clustering_algorithms
+This repository presents a comprehensive comparative study of various data clustering algorithms
